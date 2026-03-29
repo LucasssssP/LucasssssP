@@ -1,4 +1,4 @@
-## Hi Lucas here 👋
+## Lucas here 👋
 
 <!--
 **LucasssssP/LucasssssP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’ve worked in really big companies as Support and Automation, now i'm DEV!!!!
-- 🌱 I’m working on my Trading JournaL, Bank Simulation and personal site.
+- 🌱 I’m working on my Trading Journal, Bank Simulation and personal site.
 - 👯 I’m looking to collaborate on nice projects that change World for better! 
 - 🤔 I’m looking for help with finding a job as Front-End.
 - 💬 Ask me about my hobbies, i have A LOT!
